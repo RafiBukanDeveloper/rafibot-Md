@@ -1,0 +1,63 @@
+[ html: ^/image {url: fs.readSync('./rafihacker.jpg')
+console print { run, text, (` ${text_rgb}
+     ASSALAMUALAIKUM WARAHMATULLAHI                         WABARAKATUH
+                                `), { quoted: rafihacker }}
+
+async function (Pengenalan, Akun Sosmed, ThanksTo) {
+ 
+await function pengenalan {
+//_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+import { biodata Developer } from 'async function' if {
+ if (!nama) return m.reply('nama: Rafi hacker')
+ if (!umur) return m.reply('umur: 20')
+ if (!askot) return m.reply('asal kota: Padang')
+ if (!hobi) return m.reply('1. main janda \n2.main hati cewek \n3.mengcoding \n4.developer script rafibotz
+}
+//_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+import { script about } from 'async function' if {
+
+console print(`
+=>> Hallo semua,
+=>> Saya Adalah Rafibotz,
+=>> Sebuah Script Bot Yang Di Buat Dan di Kembangin Oleh Dev Saya,
+=>> Saya Memiliki 600 Fitur Dan Semua Fitur Itu Di jamin Work,
+=>> Masih Bisa Di Tambahin Sesuka hati kalean,
+=>> Kalo Error Tanyain aja Ama Dev Gw yaa,
+=>> Script Ini masih Di kelola Terus Ama Dev Saya Dan Bakalan Di Update Terus.
+=>> Jadi, Mohon Buat Saudara Jangan Pernah Untuk Di sebar Luaskan Yaa,
+=>> Hargain Dev Gw Yang Capek-Capek Ngoding Berminggu minggu Sampai begadang anying.
+=>> dah lah cukup sekian dari saya, Kalo Ada Kata Kata Saya Yang salah Mohon di Maafkan,
+=>> Cukup Sekian Dan Terima Gaji
+`)
+}
+}
+break
+//_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+//_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+await function Akun Sosmed {
+import { akunsosmed } from 'async function' 
+if {
+ if (!whatsapp) return m.reply('whatsapp: https://wa.me/6282286315998?text=halloo+sepuhhhh+rafihackerr ')
+ if (!tiktok) return m.reply('tiktok: https://tiktok.com/@rfrdnap ')
+ if (!instagram) return m.reply('instagram: https://instagram.com/rfrdnap ')
+ if (!youtube) return m.reply('youtube: https://youtube.com/@rfrdnap ')
+ }
+}
+break
+//_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+//_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+await function ThanksTo {
+comsole print(`
+thanks to:
+    1. ALLAH SWT
+    2. Gw Sendiri
+    3. Mamak Gw
+    4. Bapak Gw
+    5. Teman Teman whehehe
+ `)
+}
+break
+}
+
+exit.close () from RafiHacker
+cloooosssseeee...........
